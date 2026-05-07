@@ -1,3 +1,2 @@
 Designed and developed an automated Power BI dashboard by integrating data from multiple sources, performing ETL processes including data cleaning and preprocessing. 
-Created calculated columns and measures using DAX to track KPIs, and built interactive visualizations (graphs, matrix tables) to monitor daily delivery performance and
-reducing manual reporting effort and cutting report creation time by ~90%
+Created calculated columns and measures using DAX to track KPIs, dynamic title and built interactive visualizations (graphs, matrix tables) to monitor daily delivery performance and reducing manual reporting effort and cutting report creation time by ~90%
